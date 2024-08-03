@@ -1,6 +1,6 @@
 
 
-# <a href="https://github.com/HarpreetSingh792" style="padding-left:10px;color:#33CCCC;display:flex;align-items:end;gap:7px;text-decoration:none"><img src="https://i.imgur.com/cyLX0HE.png" width="30" /> Harpreet Singh</a>
+# <a href="https://github.com/HarpreetSingh792" style="padding-left:10px;color:#33CCCC;display:flex;align-items:center;gap:7px;text-decoration:none"><img src="https://i.imgur.com/cyLX0HE.png" width="30" /> Harpreet Singh</a>
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=700&size=30&pause=1000&color=FF0050&width=435&lines=MERN+STACK+DEVELOPER;ENTHUSIAST+ENIGNEER" alt="Typing SVG" /></a>
@@ -46,19 +46,29 @@ You can also interact with me through:
 <br/>
 
 <!-- GitHub Star link -->
-<div align="center" style="display:flex; justify-content:center;align-items:center;gap:7px padding-left:10px">
-  <a href="https://stars.github.com/profiles/denvercoder1/">
-    <img width="200" src="https://imgur.com/A8MeoT7.png" alt="GitHub Star 2023"/></a>
-    <ul style="border:2px solid red;height:100%;font-size:1.5rem;text-align:start;text-wrap:pretty">
-    <li>Abracadabra! Your friendly neighborhood developer.</li>
-    <li>Crafting digital magic, one line of code at a time.</li>
-    <li>Let's conjure up some awesome projects together!</li>
-    </ul>
+<div align="left">
+<table >
+  <tr>
+    <td>
+      <a href="https://stars.github.com/profiles/harpreetsingh792/">
+        <img width="200" src="https://imgur.com/A8MeoT7.png" alt="GitHub Star 2023" />
+      </a>
+    </td>
+    <td style="font-size: 1.5rem; text-align: start; padding-left: 20px;">
+      <ul>
+        <li>Abracadabra! Your friendly neighborhood developer.</li>
+        <li>Crafting digital magic, one line of code at a time.</li>
+        <li>Let's conjure up some awesome projects together!</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 </div>
 
-<h2 style="text-align:left;padding-left:10px">🧰 Languages and Tools</h2>
 
-<div style="height:fit-content;display:flex;flex-wrap:wrap;padding-left:15px;align-items:center">
+  
+
+<h2 align="left">🧰 Languages and Tools</h2>
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
@@ -91,27 +101,26 @@ You can also interact with me through:
 
 <img  align="left" alt="Postman" width="30px" style="padding-right:10px;padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
           
-</div>
+<br/>
+<br/>
 
 
-
-
-<details open style="text-align:left;padding-left:15px;"> 
+<details open align="left"> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
 
-  <p align="left" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,2fr));justify-content:center;align-items:center;gap:7px;">
-    <a href="https://github.com/HarpreetSingh792/Trendora-BackEnd"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HarpreetSingh792&repo=Trendora-BackEnd&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false%22 alt="trendora-ecommerce-app"></a>
- <a href="https://github.com/HarpreetSingh792/Trendora-FrontEnd"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HarpreetSingh792&repo=Trendora-FrontEnd&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false%22 alt="trendora-ecommerce-app"></a>
- <a href="https://github.com/HarpreetSingh792/Book_Zudio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HarpreetSingh792&repo=Book_Zudio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false%22 alt="book-zudio"></a>
- <a href="https://github.com/HarpreetSingh792/Resume-Builder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HarpreetSingh792&repo=Resume-Builder&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false%22 alt="resumme-builder"></a>
- <a href="https://github.com/HarpreetSingh792/bookchef"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HarpreetSingh792&repo=bookchef&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false%22 alt="resumme-builder"></a>
-  </p>
+  <div>
+    <a href="https://github.com/HarpreetSingh792/Trendora-BackEnd"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HarpreetSingh792&repo=Trendora-BackEnd&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false%22" alt="trendora-ecommerce-app"></a>
+ <a href="https://github.com/HarpreetSingh792/Trendora-FrontEnd"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HarpreetSingh792&repo=Trendora-FrontEnd&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false%22" alt="trendora-ecommerce-app"></a>
+ <a href="https://github.com/HarpreetSingh792/Book_Zudio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HarpreetSingh792&repo=Book_Zudio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false%22" alt="book-zudio"></a>
+ <a href="https://github.com/HarpreetSingh792/Resume-Builder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HarpreetSingh792&repo=Resume-Builder&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false%22" alt="resumme-builder"></a>
+ <a href="https://github.com/HarpreetSingh792/bookchef"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HarpreetSingh792&repo=bookchef&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false%22" alt="resumme-builder"></a>
+  </div>
 
   <a href="https://github.com/HarpreetSingh792?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
-<details style="padding-left:15px;text-align:left"> 
+<details align="left"> 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
 
