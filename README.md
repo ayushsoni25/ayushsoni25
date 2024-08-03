@@ -111,10 +111,8 @@ You can also interact with me through:
 <br/>
 <br/>
 <br/>
-<br/>
 
 <details align="left"> 
- <br/>
   <summary align="left"><h2  align="left">📊 Stats and Activity</h2></summary>
 
 
