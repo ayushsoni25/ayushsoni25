@@ -108,7 +108,7 @@ You can also interact with me through:
   <a href="https://github.com/HarpreetSingh792?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
-<br/>
+
 <details align="left"> 
   <summary align="left"><h2  align="left">📊 Stats and Activity</h2></summary>
 
