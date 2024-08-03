@@ -109,7 +109,7 @@ You can also interact with me through:
 </details>
 
 
-<details align="left"> 
+<details> 
   <summary align="left"><h2  align="left">📊 Stats and Activity</h2></summary>
 
 
