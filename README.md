@@ -109,8 +109,6 @@ You can also interact with me through:
 </details>
 
 <br/>
-<br/>
-
 <details align="left"> 
   <summary align="left"><h2  align="left">📊 Stats and Activity</h2></summary>
 
