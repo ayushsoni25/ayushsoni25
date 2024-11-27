@@ -15,7 +15,7 @@ Aspiring full-stack developer fueled by a passion for building dynamic web appli
 Check out my resume for more details: https://drive.google.com/file/d/1B-_0H8Q3ATBVcFZlMcjHf0FD5WUR1cTL/view?usp=drivesdk
 </p>
 
-<a href="https://portfolio-git-main-harpreet-singhs-projects-de00f2df.vercel.app/"><p>Check out my Portfolio</p></a>
+<a href="https://portfolio-git-main-harpreet-singhs-projects-de00f2df.vercel.app/">Check out my Portfolio</a>
 
 You can also interact with me through:
 <!-- Social icons section -->
