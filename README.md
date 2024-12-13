@@ -12,7 +12,7 @@
 
 Aspiring full-stack developer fueled by a passion for building dynamic web applications. Proficient in the MERN stack (MongoDB, Express, React, Node.js) and currently expanding my skillset with Next.js and TypeScript. My coding journey began with the classic "Hello World" program, and I'm eager to keep learning and contribute! B.Tech (CSE) student in my final year, actively seeking an internship or junior developer position.
 
-Check out my resume for more details: https://drive.google.com/file/d/1B-_0H8Q3ATBVcFZlMcjHf0FD5WUR1cTL/view?usp=drivesdk
+Check out my resume for more details: https://drive.google.com/file/d/1SfaF_BcLtPMVgkpWVsbzmSNAxIxo2BRb/view
 </p>
 
 <a href="https://portfolio-git-main-harpreet-singhs-projects-de00f2df.vercel.app/">Check out my Portfolio</a>
