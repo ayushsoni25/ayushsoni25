@@ -1,6 +1,6 @@
 
 
-# <a href="https://github.com/HarpreetSingh792" style="padding-left:10px;color:#33CCCC;display:flex;align-items:center;gap:7px;text-decoration:none"><img src="https://i.imgur.com/cyLX0HE.png" width="30" /> Harpreet Singh</a>
+# <a href="https://github.com/HarpreetSingh792" style="padding-left:10px;color:#33CCCC;display:flex;align-items:center;gap:7px;text-decoration:none"><img src="https://i.imgur.com/cyLX0HE.png" width="30" /> Ayush Soni</a>
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=700&size=30&pause=1000&color=FF0050&width=435&lines=MERN+STACK+DEVELOPER;ENTHUSIAST+ENIGNEER" alt="Typing SVG" /></a>
